@@ -22,7 +22,3 @@ I'm Janindu. I'm a Full Stack Developer who is passionate about making projects,
 
 <a href="https://ko-fi.com/"><img style="height:50px;" align="left" alt="ko-fi" src="https://az743702.vo.msecnd.net/cdn/kofi3.png?v=0"></a>
 
-
-## 🚀 Donate Us 
-
-<a href="<iframe id='kofiframe' src='https://ko-fi.com/hasinduhimasara/?hidefeed=true&widget=true&embed=true&preview=true' style='border:none;width:100%;padding:4px;background:#f9f9f9;' height='712' title='hasinduhimasara'></iframe></a>
