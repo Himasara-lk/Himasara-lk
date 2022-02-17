@@ -1,15 +1,28 @@
-- 👋 Hi, I’m @Himasara-lk
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<p align="center"> <h1 align="center"> Janindu Malshan </h1> </p>
 
-<!---
-Himasara-lk/Himasara-lk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+|<a href="https://t.me/imjanindu/"><img src="https://telegra.ph/file/cef8f20ec0e84b67fbbbb.jpg" width="150px" height="150px" /></a> |
+|:---------------------------------------------------------------------------------------------------------------------------------------:|
+|       **[Portfolio](https://janindu.com)**                                                                                |
+
+<br>✨ About Me
+
+I'm Janindu. I'm a Full Stack Developer who is passionate about making projects, creating technology to elevate people, and building community and currently working on projects at [Jaguar Bots](https://t.me/JaguarBots). I love Python programming.
+
+📫 How to reach me
+
+`Telegram:` [@imtrulyjanindu](https://t.me/About_Janindu) <br>
+`Website:` [jj47.ml](https://jj47.ml) <br> 
+`Email:` janindu@jj47.ml <br>
+
+<p align="center">
+	<img src=https://github-readme-stats.vercel.app/api?username=imjanindu&show_icons=true&theme=midnight-purple alt=ImJanindu />
+</p>
+
+## 💰 Support Me
+
+<a href="https://ko-fi.com/"><img style="height:50px;" align="left" alt="ko-fi" src="https://az743702.vo.msecnd.net/cdn/kofi3.png?v=0"></a>
 
 
-#donate 
+## 🚀 Donate Us 
 
-<script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Support Me on Ko-fi', '#29abe0', 'N4N3ALW99');kofiwidget2.draw();</script> 
+<a href="<iframe id='kofiframe' src='https://ko-fi.com/hasinduhimasara/?hidefeed=true&widget=true&embed=true&preview=true' style='border:none;width:100%;padding:4px;background:#f9f9f9;' height='712' title='hasinduhimasara'></iframe></a>
